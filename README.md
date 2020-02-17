@@ -16,9 +16,11 @@ Solder all parts in the order you prefer, just keep the controller connector las
 Note that the controller is powered at 3.3V and the interface signals use the same voltage. Due to the particular circuit used for level shifting (the microcontroller works at 5V), the MOSFETs should really be BSS138.
 
 ### Compatibility
-For the list of supported controllers, please refer to the [PsxNewLib Compatibiltiy List](https://github.com/SukkoPera/PsxNewLib#compatibility-list).
+For the list of supported controllers, please refer to the [PsxNewLib Compatibility List](https://github.com/SukkoPera/PsxNewLib#compatibility-list).
 
 Regarding the supported Arduino boards, this shield should work with all those that work at 5V, such as the *Uno*, *Leonardo* and *Mega*. **It will NOT work with the Due** or other boards that use a 3.3V logic level, and **it will probably destroy them**, so be careful.
+
+If you plan to use the vibration motors you will need to provide them with suitable power, that is 7.6V-9V. This can be done through the barrel jack which should be available on your Arduino board or through the VIN pin. Pay attation **to match the polarity**! Please note that this is untested at the moment (since it is currently not supported by PsxNewLib).
 
 #### Pin Restrictions
 The shield uses pin 10 to address the controller and pin 9 for the ACK signal, so these pins cannot be used for any other purpose.
@@ -66,4 +68,5 @@ Again, if you want to use another manufacturer, feel free to, don't feel obligat
 If you need help or have questions, you can join [the official Telegram group](https://t.me/joinchat/HUHdWBC9J9JnYIrvTYfZmg).
 
 ### Thanks
+- CuriousInventor for informtation about the [PlayStation controller protocol](http://store.curiousinventor.com/guides/PS2)
 - Sarang Dumbre for the 3D model of the PlayStation connector
