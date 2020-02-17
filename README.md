@@ -20,7 +20,7 @@ For the list of supported controllers, please refer to the [PsxNewLib Compatibil
 
 Regarding the supported Arduino boards, this shield should work with all those that work at 5V, such as the *Uno*, *Leonardo* and *Mega*. **It will NOT work with the Due** or other boards that use a 3.3V logic level, and **it will probably destroy them**, so be careful.
 
-If you plan to use the vibration motors you will need to provide them with suitable power, that is 7.6V-9V. This can be done through the barrel jack which should be available on your Arduino board or through the VIN pin. Pay attation **to match the polarity**! Please note that this is untested at the moment (since it is currently not supported by PsxNewLib).
+If you plan to use the vibration motors you will need to provide them with suitable power, that is 7.6V-9V. This can be done through the barrel jack which should be available on your Arduino board or through the VIN pin. Pay attention **to match the polarity**! Please note that this is untested at the moment (since it is currently not supported by PsxNewLib).
 
 #### Pin Restrictions
 The shield uses pin 10 to address the controller and pin 9 for the ACK signal, so these pins cannot be used for any other purpose.
