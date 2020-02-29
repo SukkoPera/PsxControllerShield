@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name PsxControllerShield)(type KiCad)(uri ${KIPRJMOD}/PsxControllerShield.pretty)(options "")(descr ""))
+  (lib (name Arduino)(type KiCad)(uri ${MYLIBS}/arduino-kicad-library/Arduino.pretty)(options "")(descr ""))
 )
