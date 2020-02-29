@@ -69,4 +69,5 @@ If you need help or have questions, you can join [the official Telegram group](h
 
 ### Thanks
 - CuriousInventor for informtation about the [PlayStation controller protocol](http://store.curiousinventor.com/guides/PS2)
+- Nicholas Parks Young for his [Arduino Shield schematic and footprint library for KiCad](https://github.com/Alarm-Siren/arduino-kicad-library).
 - Sarang Dumbre for the 3D model of the PlayStation connector
