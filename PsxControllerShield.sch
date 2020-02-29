@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PsxControllerShield"
-Date "2019-12-26"
-Rev "1git"
+Date "2020-02-29"
+Rev "1"
 Comp "SukkoPera"
 Comment1 "Licensed under CERN OHL v.1.2"
 Comment2 ""
