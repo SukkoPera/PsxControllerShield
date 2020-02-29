@@ -6,7 +6,7 @@ PsxControllerShield is an Open Hardware shield for [Arduino](https://www.arduino
 ### Summary
 Interfacing PlayStation controllers with Arduino is easy, since the protocol they use is essentially SPI, but it is a bit tricky at the hardware level, since they are designed to work at 3.6V, while most Arduino work at 5V. A lot of guides out there seem to ignore this fact and say that controllers will work fine even at 5V, but I doubt this will not harm them in the long run. Since overcoming the problem is pretty easy, I designed this shield, which includes level shifters on all data lines and a voltage regulator that will produce much more current than even the most power-greedy controller will need. Just place it on your Arduino, connect the controller and you are good to go!
 
-The shield was designed to be used with [PsxNewLib](https://github.com/SukkoPera/PsxNewLib) on the software side, but it will probably work with other libraries and/or custom code just as well.
+The shield was designed to be used with [PsxNewLib](https://github.com/SukkoPera/PsxNewLib) on the software side (versions 0.2 and later have a built-in example for that), but it will probably work with other libraries and/or custom code just as well.
 
 The shield also includes three leds that can be freely used by sketches.
 
