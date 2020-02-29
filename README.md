@@ -68,6 +68,6 @@ Again, if you want to use another manufacturer, feel free to, don't feel obligat
 If you need help or have questions, you can join [the official Telegram group](https://t.me/joinchat/HUHdWBC9J9JnYIrvTYfZmg).
 
 ### Thanks
-- CuriousInventor for informtation about the [PlayStation controller protocol](http://store.curiousinventor.com/guides/PS2)
-- Nicholas Parks Young for his [Arduino Shield schematic and footprint library for KiCad](https://github.com/Alarm-Siren/arduino-kicad-library).
+- CuriousInventor for information about the [PlayStation controller protocol](http://store.curiousinventor.com/guides/PS2)
+- Nicholas Parks Young for his [Arduino Shield schematic and footprint library for KiCad](https://github.com/Alarm-Siren/arduino-kicad-library)
 - Sarang Dumbre for the 3D model of the PlayStation connector
