@@ -15,6 +15,8 @@ Solder all parts in the order you prefer, just keep the controller connector las
 
 Note that the controller is powered at 3.3V and the interface signals use the same voltage. Due to the particular circuit used for level shifting (the microcontroller works at 5V), the MOSFETs should really be BSS138.
 
+**NOTE: I recommend using 1k resistors for R1 through R10.** I have checked on a real PsOne and that's the value it uses, so I guess we should do the same. This will be fixed in the next release.
+
 ### Compatibility
 For the list of supported controllers, please refer to the [PsxNewLib Compatibility List](https://github.com/SukkoPera/PsxNewLib#compatibility-list).
 
