@@ -4,3 +4,4 @@
 *.sch-bak
 gerbers/
 RELEASES
+fp-info-cache

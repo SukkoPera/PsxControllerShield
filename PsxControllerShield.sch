@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PsxControllerShield"
-Date "2020-02-29"
-Rev "1"
+Date "2021-04-29"
+Rev "2"
 Comp "SukkoPera"
 Comment1 "Licensed under CERN OHL v.1.2"
 Comment2 ""
@@ -252,8 +252,8 @@ P 6930 1345
 AR Path="/5E04026C/5E098350" Ref="R?"  Part="1" 
 AR Path="/5E098350" Ref="R1"  Part="1" 
 F 0 "R1" H 7000 1391 50  0000 L CNN
-F 1 "10k" H 7000 1300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6860 1345 50  0001 C CNN
+F 1 "1k" H 7000 1300 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 6860 1345 50  0001 C CNN
 F 3 "~" H 6930 1345 50  0001 C CNN
 	1    6930 1345
 	1    0    0    -1  
@@ -265,8 +265,8 @@ P 7780 1345
 AR Path="/5E04026C/5E098356" Ref="R?"  Part="1" 
 AR Path="/5E098356" Ref="R6"  Part="1" 
 F 0 "R6" H 7850 1391 50  0000 L CNN
-F 1 "10k" H 7850 1300 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7710 1345 50  0001 C CNN
+F 1 "1k" H 7850 1300 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 7710 1345 50  0001 C CNN
 F 3 "~" H 7780 1345 50  0001 C CNN
 	1    7780 1345
 	1    0    0    -1  
@@ -278,8 +278,8 @@ P 6930 2595
 AR Path="/5E04026C/5E09835C" Ref="R?"  Part="1" 
 AR Path="/5E09835C" Ref="R2"  Part="1" 
 F 0 "R2" H 7000 2641 50  0000 L CNN
-F 1 "10k" H 7000 2550 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6860 2595 50  0001 C CNN
+F 1 "1k" H 7000 2550 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 6860 2595 50  0001 C CNN
 F 3 "~" H 6930 2595 50  0001 C CNN
 	1    6930 2595
 	1    0    0    -1  
@@ -291,8 +291,8 @@ P 7780 2595
 AR Path="/5E04026C/5E098362" Ref="R?"  Part="1" 
 AR Path="/5E098362" Ref="R7"  Part="1" 
 F 0 "R7" H 7850 2641 50  0000 L CNN
-F 1 "10k" H 7850 2550 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7710 2595 50  0001 C CNN
+F 1 "1k" H 7850 2550 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 7710 2595 50  0001 C CNN
 F 3 "~" H 7780 2595 50  0001 C CNN
 	1    7780 2595
 	1    0    0    -1  
@@ -304,8 +304,8 @@ P 6930 3795
 AR Path="/5E04026C/5E098368" Ref="R?"  Part="1" 
 AR Path="/5E098368" Ref="R3"  Part="1" 
 F 0 "R3" H 7000 3841 50  0000 L CNN
-F 1 "10k" H 7000 3750 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 6860 3795 50  0001 C CNN
+F 1 "1k" H 7000 3750 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 6860 3795 50  0001 C CNN
 F 3 "~" H 6930 3795 50  0001 C CNN
 	1    6930 3795
 	1    0    0    -1  
@@ -317,8 +317,8 @@ P 7780 3795
 AR Path="/5E04026C/5E09836E" Ref="R?"  Part="1" 
 AR Path="/5E09836E" Ref="R8"  Part="1" 
 F 0 "R8" H 7850 3841 50  0000 L CNN
-F 1 "10k" H 7850 3750 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7710 3795 50  0001 C CNN
+F 1 "1k" H 7850 3750 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 7710 3795 50  0001 C CNN
 F 3 "~" H 7780 3795 50  0001 C CNN
 	1    7780 3795
 	1    0    0    -1  
@@ -330,8 +330,8 @@ P 9320 1365
 AR Path="/5E04026C/5E098374" Ref="R?"  Part="1" 
 AR Path="/5E098374" Ref="R4"  Part="1" 
 F 0 "R4" H 9390 1411 50  0000 L CNN
-F 1 "10k" H 9390 1320 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9250 1365 50  0001 C CNN
+F 1 "1k" H 9390 1320 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 9250 1365 50  0001 C CNN
 F 3 "~" H 9320 1365 50  0001 C CNN
 	1    9320 1365
 	1    0    0    -1  
@@ -343,8 +343,8 @@ P 10170 1365
 AR Path="/5E04026C/5E09837A" Ref="R?"  Part="1" 
 AR Path="/5E09837A" Ref="R9"  Part="1" 
 F 0 "R9" H 10240 1411 50  0000 L CNN
-F 1 "10k" H 10240 1320 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10100 1365 50  0001 C CNN
+F 1 "1k" H 10240 1320 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 10100 1365 50  0001 C CNN
 F 3 "~" H 10170 1365 50  0001 C CNN
 	1    10170 1365
 	1    0    0    -1  
@@ -476,8 +476,8 @@ P 9320 2595
 AR Path="/5E04026C/5E0983BC" Ref="R?"  Part="1" 
 AR Path="/5E0983BC" Ref="R5"  Part="1" 
 F 0 "R5" H 9390 2641 50  0000 L CNN
-F 1 "10k" H 9390 2550 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9250 2595 50  0001 C CNN
+F 1 "1k" H 9390 2550 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 9250 2595 50  0001 C CNN
 F 3 "~" H 9320 2595 50  0001 C CNN
 	1    9320 2595
 	1    0    0    -1  
@@ -489,8 +489,8 @@ P 10170 2595
 AR Path="/5E04026C/5E0983C2" Ref="R?"  Part="1" 
 AR Path="/5E0983C2" Ref="R10"  Part="1" 
 F 0 "R10" H 10240 2641 50  0000 L CNN
-F 1 "10k" H 10240 2550 50  0000 L CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 10100 2595 50  0001 C CNN
+F 1 "1k" H 10240 2550 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 10100 2595 50  0001 C CNN
 F 3 "~" H 10170 2595 50  0001 C CNN
 	1    10170 2595
 	1    0    0    -1  
@@ -536,7 +536,7 @@ ps_clk_3v3
 Text Label 7960 5620 0    60   ~ 0
 ps_attn_3v3
 Text Notes 9065 4820 0    60   ~ 0
-VIBRATION MOTOR\nPOWER (7-9V)
+VIBRATION\nMOTOR\nPOWER
 $Comp
 L power:+3.3V #PWR?
 U 1 1 5E0E7609
@@ -548,19 +548,6 @@ F 1 "+3.3V" H 8715 4730 50  0000 C CNN
 F 2 "" H 8715 4590 50  0001 C CNN
 F 3 "" H 8715 4590 50  0001 C CNN
 	1    8715 4590
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+9V #PWR?
-U 1 1 5E0E760F
-P 8865 4820
-AR Path="/5E04026C/5E0E760F" Ref="#PWR?"  Part="1" 
-AR Path="/5E0E760F" Ref="#PWR03"  Part="1" 
-F 0 "#PWR03" H 8865 4670 50  0001 C CNN
-F 1 "+9V" H 8865 4960 50  0000 C CNN
-F 2 "" H 8865 4820 50  0001 C CNN
-F 3 "" H 8865 4820 50  0001 C CNN
-	1    8865 4820
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -600,7 +587,7 @@ AR Path="/5E04026C/5E0E7623" Ref="J?"  Part="1"
 AR Path="/5E0E7623" Ref="J2"  Part="1" 
 F 0 "J2" V 10689 6297 50  0000 R CNN
 F 1 "OSHW_LOGO" V 10598 6297 50  0000 R CNN
-F 2 "Symbol:OSHW-Logo_7.5x8mm_Copper" H 10535 6385 50  0001 C CNN
+F 2 "Symbol:OSHW-Logo_7.5x8mm_SilkScreen" H 10535 6385 50  0001 C CNN
 F 3 "~" H 10535 6385 50  0001 C CNN
 	1    10535 6385
 	0    -1   -1   0   
@@ -612,111 +599,111 @@ Wire Wire Line
 	8715 4590 8715 5520
 Wire Wire Line
 	7960 5920 8965 5920
-Text Notes 2870 6245 0    60   ~ 0
+Text Notes 1615 6260 0    60   ~ 0
 BOTH 10uF CAPS MUST\nPOSSIBLY BE TANTALUM
 $Comp
 L Device:C C?
 U 1 1 5E103C4F
-P 3970 5245
+P 2715 5260
 AR Path="/5E04026C/5E103C4F" Ref="C?"  Part="1" 
 AR Path="/5E103C4F" Ref="C2"  Part="1" 
-F 0 "C2" H 3935 5155 50  0000 R CNN
-F 1 "10u" H 3935 5360 50  0000 R CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4008 5095 50  0001 C CNN
-F 3 "~" H 3970 5245 50  0001 C CNN
-	1    3970 5245
+F 0 "C2" H 2680 5170 50  0000 R CNN
+F 1 "10u" H 2680 5375 50  0000 R CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 2753 5110 50  0001 C CNN
+F 3 "~" H 2715 5260 50  0001 C CNN
+	1    2715 5260
 	-1   0    0    1   
 $EndComp
 $Comp
 L Device:C C?
 U 1 1 5E103C55
-P 2770 5245
+P 1515 5260
 AR Path="/5E04026C/5E103C55" Ref="C?"  Part="1" 
 AR Path="/5E103C55" Ref="C1"  Part="1" 
-F 0 "C1" H 2735 5155 50  0000 R CNN
-F 1 "10u" H 2745 5355 50  0000 R CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2808 5095 50  0001 C CNN
-F 3 "~" H 2770 5245 50  0001 C CNN
-	1    2770 5245
+F 0 "C1" H 1480 5170 50  0000 R CNN
+F 1 "10u" H 1490 5370 50  0000 R CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 1553 5110 50  0001 C CNN
+F 3 "~" H 1515 5260 50  0001 C CNN
+	1    1515 5260
 	-1   0    0    1   
 $EndComp
 $Comp
 L Regulator_Linear:LM1117-3.3 U?
 U 1 1 5E103C79
-P 3370 4945
+P 2115 4960
 AR Path="/5E04026C/5E103C79" Ref="U?"  Part="1" 
 AR Path="/5E103C79" Ref="U1"  Part="1" 
-F 0 "U1" H 3370 5187 50  0000 C CNN
-F 1 "LM1117-3.3" H 3370 5096 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 3370 4945 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" H 3370 4945 50  0001 C CNN
-	1    3370 4945
+F 0 "U1" H 2115 5202 50  0000 C CNN
+F 1 "LM1117-3.3" H 2115 5111 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 2115 4960 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" H 2115 4960 50  0001 C CNN
+	1    2115 4960
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2770 5595 3370 5595
+	1515 5610 2115 5610
 Wire Wire Line
-	3370 5595 3970 5595
+	2115 5610 2715 5610
 Wire Wire Line
-	3370 5595 3370 5745
+	2115 5610 2115 5760
 Wire Wire Line
-	3970 4945 3970 5095
+	2715 4960 2715 5110
 Wire Wire Line
-	2770 4945 3070 4945
+	1515 4960 1815 4960
 Wire Wire Line
-	2770 4945 2770 5095
-Connection ~ 3370 5595
-Connection ~ 3970 4945
-Connection ~ 2770 4945
+	1515 4960 1515 5110
+Connection ~ 2115 5610
+Connection ~ 2715 4960
+Connection ~ 1515 4960
 Wire Wire Line
-	3970 5595 3970 5395
+	2715 5610 2715 5410
 Wire Wire Line
-	2770 5395 2770 5595
+	1515 5410 1515 5610
 Wire Wire Line
-	3370 5245 3370 5595
+	2115 5260 2115 5610
 Wire Wire Line
-	2770 4795 2770 4945
+	1515 4810 1515 4960
 Wire Wire Line
-	3970 4795 3970 4945
+	2715 4810 2715 4960
 Wire Wire Line
-	3670 4945 3970 4945
+	2415 4960 2715 4960
 $Comp
 L power:GND #PWR?
 U 1 1 5E103C93
-P 3370 5745
+P 2115 5760
 AR Path="/5E04026C/5E103C93" Ref="#PWR?"  Part="1" 
 AR Path="/5E103C93" Ref="#PWR05"  Part="1" 
-F 0 "#PWR05" H 3370 5495 50  0001 C CNN
-F 1 "GND" H 3370 5595 50  0000 C CNN
-F 2 "" H 3370 5745 50  0001 C CNN
-F 3 "" H 3370 5745 50  0001 C CNN
-	1    3370 5745
+F 0 "#PWR05" H 2115 5510 50  0001 C CNN
+F 1 "GND" H 2115 5610 50  0000 C CNN
+F 2 "" H 2115 5760 50  0001 C CNN
+F 3 "" H 2115 5760 50  0001 C CNN
+	1    2115 5760
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5V #PWR?
 U 1 1 5E103C99
-P 2770 4795
+P 1515 4810
 AR Path="/5E04026C/5E103C99" Ref="#PWR?"  Part="1" 
 AR Path="/5E103C99" Ref="#PWR02"  Part="1" 
-F 0 "#PWR02" H 2770 4645 50  0001 C CNN
-F 1 "+5V" H 2770 4935 50  0000 C CNN
-F 2 "" H 2770 4795 50  0001 C CNN
-F 3 "" H 2770 4795 50  0001 C CNN
-	1    2770 4795
+F 0 "#PWR02" H 1515 4660 50  0001 C CNN
+F 1 "+5V" H 1515 4950 50  0000 C CNN
+F 2 "" H 1515 4810 50  0001 C CNN
+F 3 "" H 1515 4810 50  0001 C CNN
+	1    1515 4810
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+3.3V #PWR?
 U 1 1 5E103C9F
-P 3970 4795
+P 2715 4810
 AR Path="/5E04026C/5E103C9F" Ref="#PWR?"  Part="1" 
 AR Path="/5E103C9F" Ref="#PWR06"  Part="1" 
-F 0 "#PWR06" H 3970 4645 50  0001 C CNN
-F 1 "+3.3V" H 3970 4935 50  0000 C CNN
-F 2 "" H 3970 4795 50  0001 C CNN
-F 3 "" H 3970 4795 50  0001 C CNN
-	1    3970 4795
+F 0 "#PWR06" H 2715 4660 50  0001 C CNN
+F 1 "+3.3V" H 2715 4950 50  0000 C CNN
+F 2 "" H 2715 4810 50  0001 C CNN
+F 3 "" H 2715 4810 50  0001 C CNN
+	1    2715 4810
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -760,7 +747,7 @@ AR Path="/5E04026C/5E109DA6" Ref="R?"  Part="1"
 AR Path="/5E109DA6" Ref="R11"  Part="1" 
 F 0 "R11" V 9540 3710 50  0000 C CNN
 F 1 "220" V 9580 3895 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9555 3710 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 9555 3710 50  0001 C CNN
 F 3 "~" H 9625 3710 50  0001 C CNN
 	1    9625 3710
 	0    1    1    0   
@@ -1023,7 +1010,7 @@ AR Path="/5E04026C/5E2AE2F5" Ref="R?"  Part="1"
 AR Path="/5E2AE2F5" Ref="R13"  Part="1" 
 F 0 "R13" V 9540 4110 50  0000 C CNN
 F 1 "220" V 9585 4295 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9555 4110 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 9555 4110 50  0001 C CNN
 F 3 "~" H 9625 4110 50  0001 C CNN
 	1    9625 4110
 	0    1    1    0   
@@ -1036,7 +1023,7 @@ AR Path="/5E04026C/5E109DAC" Ref="R?"  Part="1"
 AR Path="/5E109DAC" Ref="R12"  Part="1" 
 F 0 "R12" V 9540 3910 50  0000 C CNN
 F 1 "220" V 9570 4095 50  0000 C CNN
-F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 9555 3910 50  0001 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 9555 3910 50  0001 C CNN
 F 3 "~" H 9625 3910 50  0001 C CNN
 	1    9625 3910
 	0    1    1    0   
@@ -1046,4 +1033,175 @@ Wire Wire Line
 Text Label 5145 1850 2    50   ~ 0
 led3
 NoConn ~ 2125 3450
+$Comp
+L Device:C C?
+U 1 1 60F60895
+P 5445 5260
+AR Path="/5E04026C/60F60895" Ref="C?"  Part="1" 
+AR Path="/60F60895" Ref="C4"  Part="1" 
+F 0 "C4" H 5410 5170 50  0000 R CNN
+F 1 "10u" H 5410 5375 50  0000 R CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 5483 5110 50  0001 C CNN
+F 3 "~" H 5445 5260 50  0001 C CNN
+	1    5445 5260
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 60F60FBD
+P 3985 5260
+AR Path="/5E04026C/60F60FBD" Ref="C?"  Part="1" 
+AR Path="/60F60FBD" Ref="C3"  Part="1" 
+F 0 "C3" H 3950 5170 50  0000 R CNN
+F 1 "10u" H 3960 5370 50  0000 R CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 4023 5110 50  0001 C CNN
+F 3 "~" H 3985 5260 50  0001 C CNN
+	1    3985 5260
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4585 6045 4585 6195
+Wire Wire Line
+	5445 4960 5445 5110
+Wire Wire Line
+	3985 4960 4285 4960
+Wire Wire Line
+	3985 4960 3985 5110
+Connection ~ 5445 4960
+Connection ~ 3985 4960
+Wire Wire Line
+	3985 4810 3985 4960
+Wire Wire Line
+	5445 4810 5445 4960
+Wire Wire Line
+	4885 4960 5065 4960
+$Comp
+L power:GND #PWR?
+U 1 1 60F60FE0
+P 4585 6195
+AR Path="/5E04026C/60F60FE0" Ref="#PWR?"  Part="1" 
+AR Path="/60F60FE0" Ref="#PWR018"  Part="1" 
+F 0 "#PWR018" H 4585 5945 50  0001 C CNN
+F 1 "GND" H 4585 6045 50  0000 C CNN
+F 2 "" H 4585 6195 50  0001 C CNN
+F 3 "" H 4585 6195 50  0001 C CNN
+	1    4585 6195
+	1    0    0    -1  
+$EndComp
+$Comp
+L Regulator_Linear:LM1117-ADJ U2
+U 1 1 60F6AB86
+P 4585 4960
+F 0 "U2" H 4585 5202 50  0000 C CNN
+F 1 "LM1117-ADJ" H 4585 5111 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 4585 4960 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/lm1117.pdf" H 4585 4960 50  0001 C CNN
+	1    4585 4960
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+9V #PWR?
+U 1 1 60F709E1
+P 3985 4810
+AR Path="/5E04026C/60F709E1" Ref="#PWR?"  Part="1" 
+AR Path="/60F709E1" Ref="#PWR03"  Part="1" 
+F 0 "#PWR03" H 3985 4660 50  0001 C CNN
+F 1 "+9V" H 3985 4950 50  0000 C CNN
+F 2 "" H 3985 4810 50  0001 C CNN
+F 3 "" H 3985 4810 50  0001 C CNN
+	1    3985 4810
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+7.5V #PWR019
+U 1 1 60F7DFD2
+P 5445 4810
+F 0 "#PWR019" H 5445 4660 50  0001 C CNN
+F 1 "+7.5V" H 5460 4983 50  0000 C CNN
+F 2 "" H 5445 4810 50  0001 C CNN
+F 3 "" H 5445 4810 50  0001 C CNN
+	1    5445 4810
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+7.5V #PWR020
+U 1 1 60F83C49
+P 8865 4820
+F 0 "#PWR020" H 8865 4670 50  0001 C CNN
+F 1 "+7.5V" H 8880 4993 50  0000 C CNN
+F 2 "" H 8865 4820 50  0001 C CNN
+F 3 "" H 8865 4820 50  0001 C CNN
+	1    8865 4820
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 60F8C211
+P 5065 5250
+F 0 "R16" H 5135 5296 50  0000 L CNN
+F 1 "220" H 5135 5205 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 4995 5250 50  0001 C CNN
+F 3 "~" H 5065 5250 50  0001 C CNN
+	1    5065 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 60F9868B
+P 5065 5725
+F 0 "R15" H 5135 5771 50  0000 L CNN
+F 1 "1k" H 5135 5680 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 4995 5725 50  0001 C CNN
+F 3 "~" H 5065 5725 50  0001 C CNN
+	1    5065 5725
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5065 5400 5065 5495
+Wire Wire Line
+	4585 5260 4585 5495
+Wire Wire Line
+	4585 5495 5065 5495
+Connection ~ 5065 5495
+Wire Wire Line
+	5065 5495 5065 5575
+Wire Wire Line
+	5445 5410 5445 6045
+Wire Wire Line
+	3985 5410 3985 6045
+Wire Wire Line
+	5065 5100 5065 4960
+Connection ~ 5065 4960
+Wire Wire Line
+	5065 4960 5445 4960
+Wire Wire Line
+	3985 6045 4585 6045
+$Comp
+L Device:R R14
+U 1 1 60FCB53D
+P 4585 5725
+F 0 "R14" H 4655 5771 50  0000 L CNN
+F 1 "100" H 4655 5680 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 4515 5725 50  0001 C CNN
+F 3 "~" H 4585 5725 50  0001 C CNN
+	1    4585 5725
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4585 5575 4585 5540
+Wire Wire Line
+	4845 5540 4845 5960
+Wire Wire Line
+	4845 5960 5065 5960
+Wire Wire Line
+	5065 5960 5065 5875
+Connection ~ 4585 6045
+Wire Wire Line
+	4585 6045 5445 6045
+Wire Wire Line
+	4585 5540 4845 5540
+Wire Wire Line
+	4585 5875 4585 6045
+Text Notes 4815 6935 0    50   ~ 0
+- We use two resistors in series to get to\n1100 ohm more easily.\n- Note that the input voltage of the LM317\nmust be at least 1.5V greater than the\noutput, so we're barely there.\n- There's a diode on Arduino boards between\nthe barrel jack and VIN, so if the device is\npowered from the former, it should be fed\n9.5V at least.\n- Maximum output current: 1.5A
 $EndSCHEMATC
