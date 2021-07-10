@@ -609,7 +609,7 @@ AR Path="/5E04026C/5E103C4F" Ref="C?"  Part="1"
 AR Path="/5E103C4F" Ref="C2"  Part="1" 
 F 0 "C2" H 2680 5170 50  0000 R CNN
 F 1 "10u" H 2680 5375 50  0000 R CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 2753 5110 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" H 2753 5110 50  0001 C CNN
 F 3 "~" H 2715 5260 50  0001 C CNN
 	1    2715 5260
 	-1   0    0    1   
@@ -622,7 +622,7 @@ AR Path="/5E04026C/5E103C55" Ref="C?"  Part="1"
 AR Path="/5E103C55" Ref="C1"  Part="1" 
 F 0 "C1" H 1480 5170 50  0000 R CNN
 F 1 "10u" H 1490 5370 50  0000 R CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 1553 5110 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" H 1553 5110 50  0001 C CNN
 F 3 "~" H 1515 5260 50  0001 C CNN
 	1    1515 5260
 	-1   0    0    1   
@@ -1041,7 +1041,7 @@ AR Path="/5E04026C/60F60895" Ref="C?"  Part="1"
 AR Path="/60F60895" Ref="C4"  Part="1" 
 F 0 "C4" H 5410 5170 50  0000 R CNN
 F 1 "10u" H 5410 5375 50  0000 R CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 5483 5110 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" H 5483 5110 50  0001 C CNN
 F 3 "~" H 5445 5260 50  0001 C CNN
 	1    5445 5260
 	-1   0    0    1   
@@ -1054,7 +1054,7 @@ AR Path="/5E04026C/60F60FBD" Ref="C?"  Part="1"
 AR Path="/60F60FBD" Ref="C3"  Part="1" 
 F 0 "C3" H 3950 5170 50  0000 R CNN
 F 1 "10u" H 3960 5370 50  0000 R CNN
-F 2 "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder" H 4023 5110 50  0001 C CNN
+F 2 "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" H 4023 5110 50  0001 C CNN
 F 3 "~" H 3985 5260 50  0001 C CNN
 	1    3985 5260
 	-1   0    0    1   
