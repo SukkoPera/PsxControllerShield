@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "PsxControllerShield"
-Date "2021-04-29"
+Date "2021-07-10"
 Rev "2"
 Comp "SukkoPera"
 Comment1 "Licensed under CERN OHL v.1.2"
@@ -799,7 +799,6 @@ Wire Wire Line
 Wire Wire Line
 	5145 2950 4725 2950
 NoConn ~ 4725 1450
-NoConn ~ 4725 1550
 NoConn ~ 4725 1650
 NoConn ~ 4725 1750
 NoConn ~ 4725 2350
@@ -815,9 +814,7 @@ Text Label 5145 2750 2    60   ~ 0
 ps_data
 Text Label 5145 2950 2    60   ~ 0
 ps_clk
-Wire Wire Line
-	5145 2150 4725 2150
-Text Label 5145 2150 2    60   ~ 0
+Text Label 5045 1650 0    60   ~ 0
 ps_ack
 Wire Wire Line
 	5145 2050 4725 2050
@@ -1204,4 +1201,25 @@ Wire Wire Line
 	4585 5875 4585 6045
 Text Notes 4815 6935 0    50   ~ 0
 - We use two resistors in series to get to\n1100 ohm more easily.\n- Note that the input voltage of the LM317\nmust be at least 1.5V greater than the\noutput, so we're barely there.\n- There's a diode on Arduino boards between\nthe barrel jack and VIN, so if the device is\npowered from the former, it should be fed\n9.5V at least.\n- Maximum output current: 1.5A
+Wire Wire Line
+	5440 1650 5045 1650
+Wire Wire Line
+	4725 1550 5440 1550
+Wire Wire Line
+	5230 2150 5230 1750
+Wire Wire Line
+	5230 1750 5440 1750
+Wire Wire Line
+	4725 2150 5230 2150
+$Comp
+L Connector:Conn_01x03_Male J3
+U 1 1 610B7C1A
+P 5640 1650
+F 0 "J3" H 5612 1674 50  0000 R CNN
+F 1 "JMP_ACK" H 5612 1583 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 5640 1650 50  0001 C CNN
+F 3 "~" H 5640 1650 50  0001 C CNN
+	1    5640 1650
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC
